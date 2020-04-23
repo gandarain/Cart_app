@@ -1,0 +1,37 @@
+{
+  "name": "cartApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.9.0",
+    "@react-native-community/masked-view": "^0.1.9",
+    "react": "16.8.6",
+    "react-native": "0.60.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.5.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.3.7",
+    "react-navigation-stack": "^2.3.12",
+    "react-navigation-tabs": "^2.8.11"
+  },
+  "devDependencies": {
+    "@babel/core": "7.9.0",
+    "@babel/runtime": "7.9.2",
+    "@react-native-community/eslint-config": "0.0.3",
+    "babel-jest": "24.9.0",
+    "eslint": "6.8.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
