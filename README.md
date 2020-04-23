@@ -1,5 +1,5 @@
 # Cart_app
-simple example for cart app
+simple example for cart app <br/>
 React Native v 0.60
 
 # Pluggin Installed
